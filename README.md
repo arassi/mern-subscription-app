@@ -1,5 +1,5 @@
-# Mern Subscription App Boilerplate 🧰 
-I developed this boilerplate for subscription web apps and SaaS for my restaurant menu handling software (Launching Soon 🚀)
+# MERN Subscription App Boilerplate 🧰 
+I developed this boilerplate for subscription web apps and SaaS while building my restaurant menu handling software (Launching Soon 🚀)
 
 ## Tech Stack:
 MongoDB, Express, React, NodeJS, and Stripe API
